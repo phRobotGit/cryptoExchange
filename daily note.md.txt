@@ -1,0 +1,27 @@
+Note of Working in a Digital Asset Trading Platform
+
+
+
+[Toc]
+
+
+
+
+
+# 1. Introduction of Digital Asset Trading Platform
+
+通常来说，核心部门及职责包括
+
+| 部门      | 职责             |      |
+| --------- | ---------------- | ---- |
+| 做市      | 提供流动性       |      |
+| 风控&合规 | 风险控制         |      |
+| 运营      | BD及销售体系管理 |      |
+| 市场      | 销售             |      |
+| 清算      | 清算             |      |
+
+
+
+# 2. Data Analytics 
+
+数据分析如何为各环节带来价值？ 
